@@ -1,0 +1,100 @@
+          *             ++++           oooooooo=n4=8
+          **            ++++           ooo  ooo=2=1
+          ***           ++++           oo    oo=4=2
+          ****          ++++           o      o=6=3
+          *****             ++++       o      o
+          ******            ++++       oo    oo
+          *******           ++++       ooo  ooo
+          ********          ++++       oooooooo
+
+testing last pattern for roundness.... 
+
+
+oooooooo=n4=8
+ooo  ooo=2=1
+oo    oo=4=2
+o      o=6=3
+o      o=6=3
+oo    oo=4=2
+ooo  ooo=2=1
+oooooooo
+
+
+=n4=8
+oooooooo=0=0
+oo    oo=4=1
+o      o=6=2
+o      o#delete  for roundness
+o      o#delete  for roundness
+o      o=6=2
+oo    oo=4=1
+oooooooo
+
+n=15
+123456787654321
+1oooooooooooooo
+2oooooo  oooooo
+3ooooo    ooooo
+4oooo      oooo
+5ooo        ooo
+6oo          oo
+7o            o
+7o            o
+1oo          oo
+2ooo        ooo
+3oooo      oooo
+4ooooo    ooooo
+5oooooo  oooooo
+6oooooooooooooo
+
+
+n=15
+ 01234567654321
+0oooooooooooooo0
+1oooo123   oooo3
+2ooo1234    ooo4
+3oo12345     oo5
+4oo12345     oo5
+5o123456      o6
+6o123456      o6
+6o            o
+5o            o
+4oo          oo
+3oo          oo
+2ooo        ooo
+1oooo      oooo
+0oooooooooooooo
+          
+
+n=30
+oooooooooooooooooooooooooooooo
+ooooooooo       oooooooooooooo
+ooooooo          ooooooooooooo
+oooooo            oooooooooooo
+ooooo              ooooooooooo
+oooo                oooooooooo
+ooo                  ooooooooo
+ooo                   oooooooo
+oo                     ooooooo
+oo                      oooooo
+oo                       ooooo
+oo                        oooo
+oo                         ooo
+o                           oo
+o                            o
+o                            o
+oo                          oo
+ooo                        ooo
+oooo                      oooo
+ooooo                    ooooo
+oooooo                  oooooo
+ooooooo                ooooooo
+oooooooo              oooooooo
+ooooooooo            ooooooooo
+oooooooooo          oooooooooo
+ooooooooooo        ooooooooooo
+oooooooooooo      oooooooooooo
+ooooooooooooo    ooooooooooooo
+oooooooooooooo  oooooooooooooo
+oooooooooooooooooooooooooooooo
+
